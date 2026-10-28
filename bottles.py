@@ -34,5 +34,5 @@ def bottle_song(num=99): # working with Linus I got to thinking what if I actual
 # run the functon
 bottle_song()
 
-# Linus mentioned using recursion would help solve this without a loop. I will look into that later because I was very please with my reformat above. 
+# Linus mentioned using recursion would help solve this without a loop. I will look into that later because I was very please with my reformat above. re-committing not recursively 
 ####WOAH I'm Halfway there! Living on a prayer!
